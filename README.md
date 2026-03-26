@@ -1,11 +1,16 @@
 # 🐶 Ambient Virtual Pet Care
-*A Stateful Agentic AI Demo powered by LangGraph*
+*A Stateful Agent Demo powered by LangGraph*
 
 ---
 
-## Project Goal
+## Overview
 
-The main purpose of this project is to demonstrate **stateful agentic AI** with **LangGraph**.
+The Ambient Pet Care Assistant is a stateful rule-based agent simulation of a virtual dog companion.  
+It reacts to time, user availability, and past interactions — creating a persistent, emotionally engaging experience.
+
+Unlike traditional assistants that respond only when prompted, this agent **lives alongside the user**, continuously updating its internal state and behavior.
+
+It is designed as a **LangGraph-powered state machine**, combining memory, context-awareness, and adaptive behavior.
 
 Instead of a one-off response model, this agent runs as a persistent loop:
 
@@ -13,14 +18,12 @@ Instead of a one-off response model, this agent runs as a persistent loop:
 - carries memory forward across cycles
 - makes behavior decisions from current context
 - persists state for the next step
-
-This is a practical example of moving from **stateless chat** to a **continuous state machine agent**.
-
+This is a practical example of moving from **stateless chat** to to a **continuous, state-driven agent system** (LangGraph-based), even without active LLM inference in the current version.
 ---
 
 ## What Makes It Agentic + Stateful
 
-This project uses a LangGraph workflow where each node has a clear role:
+This project uses a LangGraph workflow where each node has a clear **rule-based** role:
 
 1. **Mood Node**: derives current dog state from a simulated calendar slot
 2. **Behavior Node**: generates state-aligned speech text
