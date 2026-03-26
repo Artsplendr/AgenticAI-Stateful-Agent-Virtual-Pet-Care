@@ -127,5 +127,5 @@ python main.py
 
 ## Future Possible Improvements
 
-- Connect the agent to a real calendar instead of simulated time slots;
+- Integrate a real calendar instead of simulated time slots;
 - Enable AI-generated behavior (LLM) for more natural, personalized messages while keeping LangGraph state + memory.
