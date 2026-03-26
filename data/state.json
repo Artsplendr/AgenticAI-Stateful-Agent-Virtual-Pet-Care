@@ -1,0 +1,261 @@
+{
+  "mood": "need_attention",
+  "current_slot_index": 5,
+  "current_calendar_status": "busy",
+  "last_interaction_time": "2026-03-26T14:48:54.247410",
+  "interaction_history": [
+    {
+      "timestamp": "2026-03-26T14:19:45.944237",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:20:16.008854",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:20:46.106026",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:21:16.171886",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:21:46.245331",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:22:16.337767",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:22:46.386966",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:23:16.433718",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:23:46.554008",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:24:16.604721",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:24:46.675514",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:25:16.785958",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:25:46.846154",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:26:16.909690",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:26:47.012797",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:27:17.091367",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:27:47.163409",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:28:17.258852",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:28:47.309747",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:29:17.369462",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:29:47.470462",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:30:17.539905",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:30:47.578482",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:31:17.661622",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:31:47.712856",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:32:17.776999",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:32:47.862273",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:33:17.928414",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:33:47.998110",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:34:18.167751",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:34:48.216025",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:35:18.272326",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:35:48.453077",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:36:18.544462",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:36:48.604640",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:37:18.681678",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:37:48.745580",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:38:18.810722",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:38:48.906482",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:39:18.978938",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:39:49.050177",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:40:19.148324",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:40:49.222016",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:45:53.632484",
+      "type": "agent_message",
+      "content": "Zzz... I am feeling sleepy. Let's rest together."
+    },
+    {
+      "timestamp": "2026-03-26T14:46:23.730014",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:46:53.820745",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:47:23.980941",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:47:54.066077",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    },
+    {
+      "timestamp": "2026-03-26T14:48:24.175804",
+      "type": "agent_message",
+      "content": "I am ready for a walk! Want to go outside?"
+    },
+    {
+      "timestamp": "2026-03-26T14:48:54.247410",
+      "type": "agent_message",
+      "content": "I miss you... can we spend a moment together?"
+    }
+  ],
+  "should_act": false,
+  "last_message": "I miss you... can we spend a moment together?",
+  "last_updated": "2026-03-26T14:48:54.247582"
+}
