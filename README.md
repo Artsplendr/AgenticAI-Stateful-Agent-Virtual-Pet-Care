@@ -18,7 +18,9 @@ Instead of a one-off response model, this agent runs as a persistent loop:
 - carries memory forward across cycles
 - makes behavior decisions from current context
 - persists state for the next step
+
 This is a practical example of moving from **stateless chat** to to a **continuous, state-driven agent system** (LangGraph-based), even without active LLM inference in the current version.
+
 ---
 
 ## What Makes It Agentic + Stateful
@@ -84,7 +86,7 @@ The UI does not invent its own state logic anymore; it renders what the graph pr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Install dependencies:
 
@@ -109,3 +111,16 @@ Optional CLI loop:
 ```bash
 python main.py
 ```
+
+## Use Case
+State: Ready For Walk
+![Ambient-Virtual-Pet-ready-for-walk](assets/ready-for-walk-dog.png)
+
+State: Needs Attention
+![Ambient-Virtual-Pet-ready-for-walk](assets/needs-attention-dog.png)
+
+State: Sleeping Dog
+![Ambient-Virtual-Pet-ready-for-walk](assets/sleeping-dog.png)
+
+
+
