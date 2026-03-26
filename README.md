@@ -113,13 +113,13 @@ python main.py
 ```
 
 ## Use Case
-State: Ready For Walk
+
 ![Ambient-Virtual-Pet-ready-for-walk](assets/ready-for-walk-dog.png)
 
-State: Needs Attention
+
 ![Ambient-Virtual-Pet-ready-for-walk](assets/needs-attention-dog.png)
 
-State: Sleeping Dog
+
 ![Ambient-Virtual-Pet-ready-for-walk](assets/sleeping-dog.png)
 
 
