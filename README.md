@@ -111,6 +111,7 @@ Optional CLI loop:
 ```bash
 python main.py
 ```
+---
 
 ## Use Case
 
@@ -122,5 +123,9 @@ python main.py
 
 ![Ambient-Virtual-Pet-ready-for-walk](assets/sleeping-dog.png)
 
+---
 
+## Future Possible Improvements
 
+- Connect the agent to a real calendar instead of simulated time slots;
+- Enable AI-generated behavior (LLM) for more natural, personalized messages while keeping LangGraph state + memory.
